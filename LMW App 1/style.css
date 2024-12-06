@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://limitlessworship.ke/wp-content/uploads/2024/11/Bride-Groom-Poster-Hero.webp");
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: center;
+    height: 10vh;
+}
+
+#king{
+    font-family:unite;
+    text-shadow:2px 2px 2px whitesmoke ; 
+      
+}
+.container {
+      background: transparent;
+    backdrop-filter: blur(4px);
+    max-width: 80%;
+    margin: auto;
+    border: 3px ;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+     text-shadow:2px 2px 2px whitesmoke ; 
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:#000000;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background: #ffb20a;
+    border:none;
+       
+}
+
+.btn {
+    background: #000000;
+    color: aliceblue;
+    
+}
+
+#save-el {
+  text-shadow:1px 1px 1px white;
+  font-weight: bold;
+ 
+}
